@@ -1,0 +1,22 @@
+{
+  "name": "山海图谱｜道阁版",
+  "short_name": "山海图谱",
+  "description": "山海神话图谱，人物羁绊地理道阁典籍工具",
+  "start_url": "./shanhai.html",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
